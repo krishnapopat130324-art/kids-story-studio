@@ -233,12 +233,6 @@ kids-story-studio/
 
 **Krishna Popat**
 
-GitHub: https://github.com/krishnapopat130324-art
-
-Project Repository:
-
-https://github.com/krishnapopat130324-art/kids-story-studio
-
 ---
 
 <div align="center">
